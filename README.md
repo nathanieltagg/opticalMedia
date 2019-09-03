@@ -10,6 +10,7 @@ This is a small web applet that shows an incoming plane wave interacting with an
 
 You are free to use this in your own projects, but please let me know and give me credit if you do so.
 
+---
 
 Nathaniel Tagg, Sep 2019
 
